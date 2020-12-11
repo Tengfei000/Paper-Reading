@@ -8,5 +8,9 @@ presentation:https://nips.cc/virtual/2020/protected/poster_968c9b4f09cbb7d7925f3
 paper:https://proceedings.neurips.cc/paper/2020/file/968c9b4f09cbb7d7925f38aea3484111-Paper.pdf   
 3. Random Walk Graph Neural Networks
 presentation:https://nips.cc/virtual/2020/protected/poster_ba95d78a7c942571185308775a97a3a0.html
-paper:https://proceedings.neurips.cc/paper/2020/file/ba95d78a7c942571185308775a97a3a0-Paper.pdf
+paper:https://proceedings.neurips.cc/paper/2020/file/ba95d78a7c942571185308775a97a3a0-Paper.pdf  
+4. PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks  
+presentation:https://nips.cc/virtual/2020/protected/poster_8fb134f258b1f7865a6ab2d935a897c9.html
+paper:https://proceedings.neurips.cc/paper/2020/file/8fb134f258b1f7865a6ab2d935a897c9-Paper.pdf
+
 
