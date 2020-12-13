@@ -21,6 +21,9 @@ paper:https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931
 7. Graph Random Neural Networks for Semi-Supervised Learning on Graphs  
 presentation:https://nips.cc/virtual/2020/protected/poster_fb4c835feb0a65cc39739320d7a51c02.html
 paper:https://proceedings.neurips.cc/paper/2020/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf
+8. Factorizable Graph Convolutional Networks  
+presentation:https://nips.cc/virtual/2020/protected/poster_ea3502c3594588f0e9d5142f99c66627.html  
+paper:https://proceedings.neurips.cc/paper/2020/file/ea3502c3594588f0e9d5142f99c66627-Paper.pdf
 
 
 
