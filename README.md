@@ -24,7 +24,7 @@ paper:https://proceedings.neurips.cc/paper/2020/file/ea3502c3594588f0e9d5142f99c
 8. Bayesian Attention Module  
 presentation:https://nips.cc/virtual/2020/protected/poster_bcff3f632fd16ff099a49c2f0932b47a.html  
 paper:https://proceedings.neurips.cc/paper/2020/file/bcff3f632fd16ff099a49c2f0932b47a-Paper.pdf
-9.  Auto Learning Attention
+9.  Auto Learning Attention  
 presentation:https://nips.cc/virtual/2020/protected/poster_103303dd56a731e377d01f6a37badae3.html
 paper:https://proceedings.neurips.cc/paper/2020/file/103303dd56a731e377d01f6a37badae3-Paper.pdf
 10. 
