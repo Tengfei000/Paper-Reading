@@ -30,10 +30,10 @@ paper:https://proceedings.neurips.cc/paper/2020/file/bcff3f632fd16ff099a49c2f093
 10. Auto Learning Attention  
 presentation:https://nips.cc/virtual/2020/protected/poster_103303dd56a731e377d01f6a37badae3.html
 paper:https://proceedings.neurips.cc/paper/2020/file/103303dd56a731e377d01f6a37badae3-Paper.pdf
-11. Implicit Graph Neural Networks
+11. Implicit Graph Neural Networks  
 presentation:https://nips.cc/virtual/2020/protected/poster_8b5c8441a8ff8e151b191c53c1842a38.html  
 paper:https://proceedings.neurips.cc/paper/2020/file/8b5c8441a8ff8e151b191c53c1842a38-Paper.pdf
-12. Pointer Graph Networks
+12. Pointer Graph Networks  
 presentation:https://nips.cc/virtual/2020/protected/poster_176bf6219855a6eb1f3a30903e34b6fb.html  
 paper:https://proceedings.neurips.cc/paper/2020/file/176bf6219855a6eb1f3a30903e34b6fb-Paper.pdf
 
