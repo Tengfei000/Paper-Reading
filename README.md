@@ -18,7 +18,9 @@ paper:https://proceedings.neurips.cc/paper/2020/file/bcff3f632fd16ff099a49c2f093
 6. Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings
 presentation:https://nips.cc/virtual/2020/protected/poster_d882050bb9eeba930974f596931be527.html  
 paper:https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931be527-Paper.pdf  
-7. 
+7. Graph Random Neural Networks for Semi-Supervised Learning on Graphs  
+presentation:https://nips.cc/virtual/2020/protected/poster_fb4c835feb0a65cc39739320d7a51c02.html
+paper:https://proceedings.neurips.cc/paper/2020/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf
 
 
 
