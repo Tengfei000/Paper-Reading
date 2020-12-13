@@ -23,7 +23,7 @@ presentation:https://nips.cc/virtual/2020/protected/poster_ea3502c3594588f0e9d51
 paper:https://proceedings.neurips.cc/paper/2020/file/ea3502c3594588f0e9d5142f99c66627-Paper.pdf
 8. Building Powerful and Equivariant Graph Neural Networks with Structural Message-passing  
 presentation:https://nips.cc/virtual/2020/protected/poster_a32d7eeaae19821fd9ce317f3ce952a7.html  
-paper:https://proceedings.neurips.cc//paper_files/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html  
+paper:https://proceedings.neurips.cc/paper/2020/file/a32d7eeaae19821fd9ce317f3ce952a7-Paper.pdf
 9. Bayesian Attention Module  
 presentation:https://nips.cc/virtual/2020/protected/poster_bcff3f632fd16ff099a49c2f0932b47a.html  
 paper:https://proceedings.neurips.cc/paper/2020/file/bcff3f632fd16ff099a49c2f0932b47a-Paper.pdf
