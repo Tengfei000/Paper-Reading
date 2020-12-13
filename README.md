@@ -15,9 +15,10 @@ paper:https://proceedings.neurips.cc/paper/2020/file/8fb134f258b1f7865a6ab2d935a
 5. Bayesian Attention Module  
 presentation:https://nips.cc/virtual/2020/protected/poster_bcff3f632fd16ff099a49c2f0932b47a.html  
 paper:https://proceedings.neurips.cc/paper/2020/file/bcff3f632fd16ff099a49c2f0932b47a-Paper.pdf
-6. PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks. 
-presentation:https://nips.cc/virtual/2020/protected/poster_8fb134f258b1f7865a6ab2d935a897c9.html
-paper:https://proceedings.neurips.cc/paper/2020/file/8fb134f258b1f7865a6ab2d935a897c9-Paper.pdf
+6. Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings
+presentation:https://nips.cc/virtual/2020/protected/poster_d882050bb9eeba930974f596931be527.html  
+paper:https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931be527-Paper.pdf  
+7. 
 
 
 
