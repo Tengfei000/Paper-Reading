@@ -12,5 +12,10 @@ paper:https://proceedings.neurips.cc/paper/2020/file/ba95d78a7c942571185308775a9
 4. PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks  
 presentation:https://nips.cc/virtual/2020/protected/poster_8fb134f258b1f7865a6ab2d935a897c9.html
 paper:https://proceedings.neurips.cc/paper/2020/file/8fb134f258b1f7865a6ab2d935a897c9-Paper.pdf
+5. Bayesian Attention Module. 
+presentation:https://nips.cc/virtual/2020/protected/poster_bcff3f632fd16ff099a49c2f0932b47a.html. 
+paper:https://proceedings.neurips.cc/paper/2020/file/bcff3f632fd16ff099a49c2f0932b47a-Paper.pdf
+
+
 
 
