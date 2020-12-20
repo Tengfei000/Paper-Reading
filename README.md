@@ -1,4 +1,8 @@
 # Paper-Reading
+NeurIPS 2017:  
+1. Attention Is All You Need  
+paper:https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf  
+  
 NeurIPS 2020:  
 1. Uncertainty Aware Semi-Supervised Learning on Graph Data  
 presentation:https://nips.cc/virtual/2020/protected/poster_968c9b4f09cbb7d7925f38aea3484111.html
