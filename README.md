@@ -41,6 +41,11 @@ paper:https://proceedings.neurips.cc/paper/2020/file/8b5c8441a8ff8e151b191c53c18
 presentation:https://nips.cc/virtual/2020/protected/poster_176bf6219855a6eb1f3a30903e34b6fb.html  
 paper:https://proceedings.neurips.cc/paper/2020/file/176bf6219855a6eb1f3a30903e34b6fb-Paper.pdf
 
+FER paper:
+1. Suppressing Uncertainties for Large-Scale Facial Expression Recognition  
+paper:https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Suppressing_Uncertainties_for_Large-Scale_Facial_Expression_Recognition_CVPR_2020_paper.pdf
+
+
 
 
 
