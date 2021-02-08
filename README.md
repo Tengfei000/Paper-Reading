@@ -45,6 +45,8 @@ FER paper:
 1. Suppressing Uncertainties for Large-Scale Facial Expression Recognition  
 paper:https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Suppressing_Uncertainties_for_Large-Scale_Facial_Expression_Recognition_CVPR_2020_paper.pdf
 
+AAAI paper:
+1. Fitting the Search Space of Weight-sharing NAS with Graph Convolutional Networks 
 
 
 
