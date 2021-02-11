@@ -52,7 +52,7 @@ paper:
 paper:
 3. UAG: Uncertainty-Aware Attention Graph Neural Network for Defending Adversarial Attacks  
 paper:https://virtual.2021.aaai.org/paper_AAAI-447.html
-4. Uncertainty-Matching Graph Neural Networks to Defend against Poisoning Attacks
+4. Uncertainty-Matching Graph Neural Networks to Defend against Poisoning Attacks  
 paper:https://virtual.2021.aaai.org/paper_AAAI-4382.html
 
 
