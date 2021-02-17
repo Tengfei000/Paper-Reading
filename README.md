@@ -3,6 +3,10 @@ NeurIPS 2017:
 1. Attention Is All You Need  
 paper:https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf  
   
+CVPR2020:  
+1.Data Uncertainty Learning in Face Recognition  
+paper:https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.pdf  
+
 NeurIPS 2020:  
 1. Uncertainty Aware Semi-Supervised Learning on Graph Data  
 presentation:https://nips.cc/virtual/2020/protected/poster_968c9b4f09cbb7d7925f38aea3484111.html
