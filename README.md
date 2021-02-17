@@ -6,6 +6,8 @@ paper:https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a
 CVPR 2020:  
 1. Data Uncertainty Learning in Face Recognition  
 paper:https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.pdf  
+2. Variational Neural Network Pruning  
+paper:https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Variational_Convolutional_Neural_Network_Pruning_CVPR_2019_paper.pdf  
 
 NeurIPS 2020:  
 1. Uncertainty Aware Semi-Supervised Learning on Graph Data  
