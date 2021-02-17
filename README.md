@@ -51,14 +51,11 @@ FER paper:
 1. Suppressing Uncertainties for Large-Scale Facial Expression Recognition  
 paper:https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Suppressing_Uncertainties_for_Large-Scale_Facial_Expression_Recognition_CVPR_2020_paper.pdf
 
-AAAI paper:
-1. Fitting the Search Space of Weight-sharing NAS with Graph Convolutional Networks  
-paper:
-2. learning causality with graphs
-paper:
-3. UAG: Uncertainty-Aware Attention Graph Neural Network for Defending Adversarial Attacks  
+AAAI 2021:
+
+1. UAG: Uncertainty-Aware Attention Graph Neural Network for Defending Adversarial Attacks  
 paper:https://virtual.2021.aaai.org/paper_AAAI-447.html
-4. Uncertainty-Matching Graph Neural Networks to Defend against Poisoning Attacks  
+2. Uncertainty-Matching Graph Neural Networks to Defend against Poisoning Attacks  
 paper:https://virtual.2021.aaai.org/paper_AAAI-4382.html
 
 
