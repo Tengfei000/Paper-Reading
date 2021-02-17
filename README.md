@@ -3,8 +3,8 @@ NeurIPS 2017:
 1. Attention Is All You Need  
 paper:https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf  
   
-CVPR2020:  
-1.Data Uncertainty Learning in Face Recognition  
+CVPR 2020:  
+1. Data Uncertainty Learning in Face Recognition  
 paper:https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.pdf  
 
 NeurIPS 2020:  
