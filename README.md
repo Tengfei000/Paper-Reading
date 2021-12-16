@@ -58,5 +58,10 @@ paper:https://virtual.2021.aaai.org/paper_AAAI-447.html
 2. Uncertainty-Matching Graph Neural Networks to Defend against Poisoning Attacks  
 paper:https://virtual.2021.aaai.org/paper_AAAI-4382.html
 
+Transformer:
+
+1. Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+paper:https://arxiv.org/abs/2103.14030
+
 
 
