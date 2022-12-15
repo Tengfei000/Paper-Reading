@@ -66,4 +66,7 @@ paper:https://arxiv.org/abs/2103.14030
 
 Diffusion model：
 1. Diffusion Models: A Comprehensive Survey of Methods and Applications   
-paper:https://arxiv.org/abs/2209.00796   
+paper:https://arxiv.org/abs/2209.00796  
+
+2. Image Super-Resolution via Iterative Refinement  
+https://arxiv.org/pdf/2104.07636.pdf
