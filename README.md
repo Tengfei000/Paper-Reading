@@ -83,3 +83,6 @@ https://arxiv.org/pdf/2212.06458.pdf
 
 6. Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation  
 https://mstypulkowski.github.io/diffusedheads/  
+
+7. Cascaded Diffusion Models for High Fidelity Image Generation  
+https://cascaded-diffusion.github.io/assets/cascaded_diffusion.pdf
