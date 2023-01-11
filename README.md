@@ -73,3 +73,13 @@ https://arxiv.org/pdf/2104.07636.pdf
 
 3. Denoising Diffusion Probabilistic Models   
 https://arxiv.org/pdf/2006.11239.pdf
+
+4. High-Resolution Image Synthesis with Latent Diffusion Models  
+https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf  
+https://openaccess.thecvf.com/content/CVPR2022/supplemental/Rombach_High-Resolution_Image_Synthesis_CVPR_2022_supplemental.pdf
+
+5. HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping  
+https://arxiv.org/pdf/2212.06458.pdf  
+
+6. Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation  
+https://mstypulkowski.github.io/diffusedheads/  
